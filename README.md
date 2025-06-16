@@ -83,6 +83,13 @@ python vehicle_speed_tracking.py
   * Estimated speed (m/s)
 
 ---
+## 📸 Output Frame Example
+
+![Detected Vehicle](s1.png)
+![Detected Vehicle](s2.png)
+![Detected Vehicle](s3.png)
+
+---
 
 ### 🚀 Future Improvements
 
