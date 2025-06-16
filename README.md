@@ -85,7 +85,7 @@ python vehicle_speed_tracking.py
 ---
 ## 📸 Output Frame Example
 
-![Detected Vehicle](images/s1.png)
+![Detected Vehicle](C:\Users\karth\Downloads\SPEED_DETECTION-main\SPEED_DETECTION-main\images\s1.png)
 ![Detected Vehicle](images/s2.png)
 ![Detected Vehicle](images/s3.png)
 
