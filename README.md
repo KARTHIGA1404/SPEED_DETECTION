@@ -85,20 +85,22 @@ python vehicle_speed_tracking.py
 ---
 ## 📸 Output Frame Example
 
-![Detected Vehicle](C:\Users\karth\Downloads\SPEED_DETECTION-main\SPEED_DETECTION-main\images\s1.png)
-![Detected Vehicle](images/s2.png)
-![Detected Vehicle](images/s3.png)
 ![s1](https://github.com/user-attachments/assets/71a66cf7-708c-486e-b777-e7485d1071ad)
+![s3](https://github.com/user-attachments/assets/53062cab-e7c3-47d7-951f-5059d65792e1)
+![s2](https://github.com/user-attachments/assets/c121840c-c166-4a3b-8fd6-eec7ce820892)
 
 ---
+### 📌
+  * The above speed detection is one part of this comprehensive project. The Accident Detection and Alert System is a real-time AI-powered solution that identifies road accidents, detects overspeeding vehicles, and recognizes victims using facial recognition technology. By analyzing live or recorded CCTV footage with computer vision models, the system detects incidents instantly and sends alert messages containing the date, time, and exact location to the nearest police station or emergency contact. It maintains privacy by not storing any personal data and dynamically manages traffic flow during emergencies by counting vehicles in all directions and adjusting traffic signals accordingly. This intelligent system enhances road safety, accelerates emergency response, and supports effective traffic management. 
 
-### 🚀 Future Improvements
 
-* Use object detection (YOLO, SSD) for better accuracy.
-* Implement Kalman Filter or SORT for robust tracking.
-* Add speed threshold alerts (overspeed detection).
-* Convert speed to km/h.
 
----
+
+
+
+
+
+
+
 
 
