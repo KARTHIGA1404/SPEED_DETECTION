@@ -85,9 +85,9 @@ python vehicle_speed_tracking.py
 ---
 ## 📸 Output Frame Example
 
-![Detected Vehicle](s1.png)
-![Detected Vehicle](s2.png)
-![Detected Vehicle](s3.png)
+![Detected Vehicle](images/s1.png)
+![Detected Vehicle](images/s2.png)
+![Detected Vehicle](images/s3.png)
 
 ---
 
