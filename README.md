@@ -88,6 +88,7 @@ python vehicle_speed_tracking.py
 ![Detected Vehicle](C:\Users\karth\Downloads\SPEED_DETECTION-main\SPEED_DETECTION-main\images\s1.png)
 ![Detected Vehicle](images/s2.png)
 ![Detected Vehicle](images/s3.png)
+![s1](https://github.com/user-attachments/assets/71a66cf7-708c-486e-b777-e7485d1071ad)
 
 ---
 
